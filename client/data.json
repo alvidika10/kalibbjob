@@ -1,0 +1,53 @@
+{
+    "Users": [
+        {
+            "id": 1,
+            "username": "user1",
+            "email": "user1@mail.com",
+            "password": "12345",
+            "role": "user",
+            "phone": "0888",
+            "address": "melati"
+        }
+    ],
+    "Jobs": [
+        {
+            "id": 1,
+            "title": "job1",
+            "description": "iDevelop Application using Go Programming Language Evaluating and implementing bug fixes, and excellent trouble-shooter and also collaborating with team job 1",
+            "companyId": 1,
+            "authorId": 1,
+            "jobType": "full time",
+            "createdAt": "1/1/2023",
+            "updatedAt": "1/1/2023"
+        },
+        {
+            "id": 2,
+            "title": "job2",
+            "description": "Develop Application using Go Programming Language Evaluating and implementing bug fixes, and excellent trouble-shooter and also collaborating with team job 2",
+            "companyId": 1,
+            "authorId": 1,
+            "jobType": "part time",
+            "createdAt": "1/1/2023",
+            "updatedAt": "1/1/2023"
+        }
+    ],
+    "companies": [
+        {
+            "id": 1,
+            "name": "company1",
+            "companyLogo": "https://static.republika.co.id/uploads/images/inpicture_slide/logo-pertamina-_161201183855-327.jpg",
+            "location": "mawar",
+            "email": "company1@mail.com",
+            "description": "company 1 bergerak pada bidang a"
+        }
+    ],
+    "Skills": [
+        {
+            "id": 1,
+            "jobId": 1,
+            "name": "skill 1",
+            "level": "beginner"
+        }
+    ]
+}
