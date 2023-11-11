@@ -1,0 +1,239 @@
+{
+  "Users": [
+    {
+      "id": 1,
+      "username": "user1",
+      "email": "user1@mail.com",
+      "password": "12345",
+      "role": "user",
+      "phone": "0888",
+      "address": "melati"
+    },
+    {
+      "username": "",
+      "email": "",
+      "password": "",
+      "role": "",
+      "phone": "",
+      "address": "",
+      "id": 2
+    },
+    {
+      "username": "",
+      "email": "",
+      "password": "",
+      "role": "",
+      "phone": "",
+      "address": "",
+      "id": 3
+    },
+    {
+      "username": "",
+      "email": "",
+      "password": "",
+      "role": "",
+      "phone": "",
+      "address": "",
+      "id": 4
+    },
+    {
+      "username": "",
+      "email": "",
+      "password": "",
+      "role": "",
+      "phone": "",
+      "address": "",
+      "id": 5
+    },
+    {
+      "username": "",
+      "email": "",
+      "password": "",
+      "role": "",
+      "phone": "",
+      "address": "",
+      "id": 6
+    },
+    {
+      "username": "",
+      "email": "",
+      "password": "",
+      "role": "",
+      "phone": "",
+      "address": "",
+      "id": 7
+    },
+    {
+      "username": "",
+      "email": "",
+      "password": "",
+      "role": "",
+      "phone": "",
+      "address": "",
+      "id": 8
+    },
+    {
+      "username": "",
+      "email": "",
+      "password": "",
+      "role": "",
+      "phone": "",
+      "address": "",
+      "id": 9
+    },
+    {
+      "username": "",
+      "email": "",
+      "password": "",
+      "role": "",
+      "phone": "",
+      "address": "",
+      "id": 10
+    },
+    {
+      "username": "",
+      "email": "",
+      "password": "",
+      "role": "",
+      "phone": "",
+      "address": "",
+      "id": 11
+    },
+    {
+      "username": "",
+      "email": "",
+      "password": "",
+      "role": "",
+      "phone": "",
+      "address": "",
+      "id": 12
+    },
+    {
+      "username": "",
+      "email": "",
+      "password": "",
+      "role": "",
+      "phone": "",
+      "address": "",
+      "id": 13
+    },
+    {
+      "username": "pagi",
+      "email": "",
+      "password": "",
+      "role": "",
+      "phone": "",
+      "address": "",
+      "id": 14
+    },
+    {
+      "username": "pagi",
+      "email": "pagi@mail.com",
+      "password": "12345",
+      "role": "admin",
+      "phone": "0888",
+      "address": "melati",
+      "id": 15
+    },
+    {
+      "username": "pagi2",
+      "email": "pagi2@mail.com",
+      "password": "123",
+      "role": "admin",
+      "phone": "0999",
+      "address": "adere",
+      "id": 16
+    },
+    {
+      "username": "kamis2",
+      "email": "kamis2@mail.com",
+      "password": "1234",
+      "role": "admin",
+      "phone": "0999",
+      "address": "melati",
+      "id": 17
+    }
+  ],
+  "Jobs": [
+    {
+      "title": "test2 edit",
+      "description": "test2",
+      "companyId": "1",
+      "authorId": "1",
+      "jobType": "2",
+      "id": 5
+    },
+    {
+      "title": "halo",
+      "description": "halo",
+      "companyId": "1",
+      "authorId": "1",
+      "jobType": "2",
+      "id": 6
+    },
+    {
+      "title": "tes",
+      "description": "sdf",
+      "companyId": "1",
+      "authorId": "1",
+      "jobType": "1",
+      "id": 11
+    },
+    {
+      "title": "coba1",
+      "description": "halloooo",
+      "companyId": "1",
+      "authorId": "1",
+      "jobType": "2",
+      "id": 12
+    }
+  ],
+  "companies": [
+    {
+      "id": 1,
+      "name": "pertamina ",
+      "companyLogo": "https://static.republika.co.id/uploads/images/inpicture_slide/logo-pertamina-_161201183855-327.jpg",
+      "location": "mawar",
+      "email": "company1@mail.com",
+      "description": "company 1 bergerak pada bidang Migas"
+    },
+    {
+      "id": 2,
+      "name": "BI",
+      "companyLogo": "https://images.genpi.co/uploads/data/images/bank%20indonesia.jpg",
+      "location": "mawar",
+      "email": "company2@mail.com",
+      "description": "company 1 bergerak pada bidang Bank"
+    },
+    {
+      "name": "pln",
+      "companyLogo": "https://1.bp.blogspot.com/-W2T3qjt_dJo/YIeKL7qUtuI/AAAAAAAAIWg/1pICfcwtnFczqLXLqgZPXbQUnFFipqLcACLcBGAsYHQ/w1200-h630-p-k-no-nu/Logo_PLN.png",
+      "location": "jingga",
+      "email": "pln@mail.com",
+      "description": "perusahaan bergerak pada bidang energi",
+      "id": 3
+    },
+    {
+      "name": "semen padang",
+      "companyLogo": "https://upload.wikimedia.org/wikipedia/id/thumb/6/6d/Logo_Semen_Padang.svg/1200px-Logo_Semen_Padang.svg.png",
+      "location": "padang",
+      "email": "padang@mail.com",
+      "description": "semen padang",
+      "id": 4
+    }
+  ],
+  "Skills": [
+    {
+      "id": 1,
+      "jobId": 1,
+      "name": "skill 1",
+      "level": "beginner"
+    },
+    {
+      "id": 2,
+      "jobId": 2,
+      "name": "skill 2",
+      "level": "intermediate"
+    }
+  ]
+}
