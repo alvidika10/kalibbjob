@@ -1,0 +1,16 @@
+[
+    {
+        "title": "fullstack developer",
+        "description": "membangun sebuah sistem perangkat lunak (software) dan website",
+        "companyId": 1,
+        "authorId": 1,
+        "jobType": "full time"
+    },
+    {
+        "title": "frond end developer",
+        "description": "memproduksi, modifikasi dan memelihara website dan aplikasi web user interface.",
+        "companyId": 1,
+        "authorId": 1,
+        "jobType": "part time"
+    }
+]
